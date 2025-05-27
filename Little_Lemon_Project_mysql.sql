@@ -1,6 +1,6 @@
 /* --------------------------------------------------------------------
               MySQL Database Project by GOWTHAM G
-					Technologies Used - SQL                      
+		   Technologies Used - SQL                      
 -------------------------------------------------------------------- */
 
 
